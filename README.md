@@ -22,7 +22,7 @@ This app is highly in development
 **Note** : if you encounter class not found in build, repeat the above steps to add the missing lib.
 
 ## You can download AppCompat zipped lib to work with the new AndroidX package.
-Download here
+Download [Here](https://github.com/skyestudiosDev/BuildX/raw/master/AppCompatX.zip)
 And unzip to _BuildX/Libraries_
 
 
