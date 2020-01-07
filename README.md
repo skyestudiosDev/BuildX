@@ -1,29 +1,30 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/skyestudiosDev/BuildX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to BuildX
+Your Sketchware Client
+ 
+### What is BuildX?
+BuildX is a client app to work with third party libs and many more
 
 ```markdown
-Syntax highlighted code block
+This app is highly in development
 
-# Header 1
-## Header 2
-### Header 3
+#How to use the App
 
-- Bulleted
-- List
+1. Create a project on sketchware and click build.
+2. Then quickly click the recent app and remove sketchware
+3. Go to BuildX and select your project(if it's available, the project package name will be visible).
+4. Click play button to run first time(errors might occur but don't worry it's fixable).
 
-1. Numbered
-2. List
+# To add libs to your project
+1. Download the **.aar** lib file from [MVN](mvnrepository.com) (were working on a better download API).
+2. Unzip the **.aar** to _BuildX/Libraries_ 
+3. Run your project.
 
-**Bold** and _Italic_ and `Code` text
+**Note** : if you encounter class not found in build, repeat the above steps to add the missing lib.
 
-[Link](url) and ![Image](src)
+## You can download AppCompat zipped lib to work with the new AndroidX package.
+Download here
+And unzip to _BuildX/Libraries_
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
