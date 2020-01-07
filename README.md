@@ -4,7 +4,7 @@ Your Sketchware Client
 ### What is BuildX?
 BuildX is a client app to work with third party libs and many more
 
-```markdown
+
 This app is highly in development
 
 #How to use the App
@@ -25,7 +25,7 @@ This app is highly in development
 Download here
 And unzip to _BuildX/Libraries_
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -33,6 +33,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the my theme you have selected in your [repository settings](https://github.com/skyestudiosDev/BuildX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
