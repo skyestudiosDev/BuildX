@@ -5,7 +5,8 @@ Your Sketchware Client
 BuildX is a client app to work with third party libs and many more
 
 
-This app is highly in development
+This app is in active development so it's highly unstable
+[**DOWNLOAD APK**](https://drive.google.com/open?id=1uDtF23P7a7Bz6OuZn44qdXDn029XtrpN)
 
 #How to use the App
 
